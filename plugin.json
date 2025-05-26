@@ -1,7 +1,10 @@
 {
   "name": "Rasial Ability Helper",
-  "description": "A tick-synced visual ability helper for Rasial",
+  "description": "Overlay plugin to show recommended abilities for Rasial using tick-based logic.",
   "version": "1.0.0",
-  "author": "GIM PS1",
-  "entry": "index.html"
+  "author": "GIMPS1",
+  "entry": "index.html",
+  "icon": "https://gimps1.github.io/visual-aid/icon.png",
+  "category": "Combat",
+  "type": "app"
 }
