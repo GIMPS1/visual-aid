@@ -1,0 +1,7 @@
+{
+  "name": "Rasial Ability Helper",
+  "description": "A tick-synced visual ability helper for Rasial",
+  "version": "1.0.0",
+  "author": "GIM PS1",
+  "entry": "index.html"
+}
